@@ -1,0 +1,3 @@
+/compose_slave_2-192.168.160.5
+/compose_slave_1-192.168.160.4
+/compose_slave_3-192.168.160.2
