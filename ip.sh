@@ -5,7 +5,7 @@ input="test.txt"
 while IFS= read -r line
 do
   #s = "$line"
-  A="$(cut -d'-' -f2 <<<"$line")"
+  A="$(cut -d'-' -f3 <<<"$line")"
   #echo "$A"
   arr+="$A,"
 done < "$input"
