@@ -3,7 +3,7 @@
  #  echo "$i"
 #done
 arr=()
-input="/users/maneeshkumar/Documents/workspace/compose/test.txt"
+input="test.txt"
 while IFS= read -r line
 do
   #s = "$line"
