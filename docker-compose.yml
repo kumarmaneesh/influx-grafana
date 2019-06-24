@@ -3,7 +3,7 @@ version: '2'
 services:
 
   influxdb:
-    image: influxdb:1.7-alpine
+    image: maneeshkumar/influxdb:latest
     environment:
       - INFLUXDB_DB=jmeter
     networks:
