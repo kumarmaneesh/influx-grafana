@@ -1,5 +1,5 @@
 # Using official grafana image
-FROM grafana/grafana:latest
+FROM maneeshkumar/grafana:latest
 
 # Set work directory to /grafana
 WORKDIR /grafana
