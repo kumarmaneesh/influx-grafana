@@ -10,7 +10,7 @@ services:
       - mk
 
   master:
-    image: maneeshkumar/jmaster
+    image: maneeshkumar/jmmaster:9.0
     container_name: master
     tty: true
     hostname: master
