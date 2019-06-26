@@ -4,13 +4,14 @@ services:
 
   influxdb:
     image: maneeshkumar/influxdb:latest
+    container_name: influxdb
     environment:
       - INFLUXDB_DB=jmeter
     networks:
       - mk
 
   master:
-    image: maneeshkumar/jmmaster:9.0
+    image: maneeshkumar/jmaster
     container_name: master
     tty: true
     hostname: master
