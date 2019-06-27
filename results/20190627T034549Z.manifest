@@ -1,6 +1,6 @@
 {
   "meta": {
-    "fileName": "20190627T031856Z.meta",
+    "fileName": "20190627T034549Z.meta",
     "size": 175
   },
   "limited": false,
@@ -9,8 +9,8 @@
       "database": "jmeter",
       "policy": "autogen",
       "shardID": 2,
-      "fileName": "20190627T031856Z.s2.tar.gz",
-      "size": 4096,
+      "fileName": "20190627T034549Z.s2.tar.gz",
+      "size": 4608,
       "lastModified": 0
     }
   ]
