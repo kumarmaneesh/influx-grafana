@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1562573610774,551,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,471030,144,2,2,393,0,202
+1562573610806,560,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,471016,144,2,2,400,0,219
+1562573610793,569,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,471023,144,2,2,405,0,197
+1562573610772,539,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,471040,144,2,2,394,0,197
+1562573611355,193,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,470990,144,2,2,160,0,0
+1562573611351,211,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,470990,144,2,2,177,0,0
+1562573611548,179,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,470990,144,2,2,173,0,0
+1562573611562,190,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,470990,144,1,1,185,0,0
+1562573610809,544,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,471023,144,2,2,411,0,211
+1562573611368,203,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,470990,144,2,2,171,0,0
+1562573611386,206,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,470990,144,2,2,174,0,0
+1562573611572,182,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,470990,144,2,2,176,0,0
+1562573611592,189,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,470990,144,1,1,178,0,0
+1562573610808,531,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,471016,144,2,2,399,0,180
+1562573611383,203,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,470990,144,2,2,169,0,0
+1562573611386,228,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,470990,144,2,2,197,0,0
+1562573611586,203,Dummy REST,200,OK,SampleGrafana 1-2,text,true,,470990,144,2,2,197,0,0
+1562573611615,202,Dummy REST,200,OK,SampleGrafana 1-1,text,true,,470997,144,1,1,196,0,0
